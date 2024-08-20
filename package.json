@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-medium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node benchmarking/index.js"
+  },
+  "author": "Marcos Santos",
+  "license": "ISC",
+  "description": "Projeto para testar o benchmark",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "uuid": "^10.0.0"
+  }
+}
