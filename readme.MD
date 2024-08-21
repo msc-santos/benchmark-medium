@@ -1,7 +1,6 @@
 # 🚀 Node.js Performance & Benchmarking Project
 
-B
-em-vindo ao projeto Node.js focado em otimização de performance e benchmarking! Este projeto foi desenvolvido para explorar e comparar diferentes algoritmos de busca, demonstrando a importância da escolha adequada de algoritmos para garantir uma aplicação eficiente e escalável.
+Bem-vindo ao projeto Node.js focado em otimização de performance e benchmarking! Este projeto foi desenvolvido para explorar e comparar diferentes algoritmos de busca, demonstrando a importância da escolha adequada de algoritmos para garantir uma aplicação eficiente e escalável.
 
 # 📋 Sumário
 
@@ -14,7 +13,7 @@ em-vindo ao projeto Node.js focado em otimização de performance e benchmarking
 
 Este projeto contém implementações de carrinho de compras e seus produtos, juntamente com benchmarks para comparar o desempenho na geração do ID do carrinho de compras, utilizando duas abordagens, uma biblioteca externa, e a biblioteca interna do Node. A motivação por trás deste projeto é demonstrar como diferentes abordagens podem impactar a performance de uma aplicação Node.js, Mais detalhes no link do Medium onde falo sobre Performance e NodeJs.
 
-- Link aqui
+[https://medium.com/@marcos.samuel/entendendo-sobre-performance-de-aplica%C3%A7%C3%B5es-com-node-js-42ba052f1761](Artigo)
 
 # 📦 Entidades
 
