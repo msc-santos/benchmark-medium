@@ -11,9 +11,9 @@ Bem-vindo ao projeto Node.js focado em otimização de performance e benchmarkin
 
 # 🌟 Visão Geral
 
-Este projeto contém implementações de carrinho de compras e seus produtos, juntamente com benchmarks para comparar o desempenho na geração do ID do carrinho de compras, utilizando duas abordagens, uma biblioteca externa, e a biblioteca interna do Node. A motivação por trás deste projeto é demonstrar como diferentes abordagens podem impactar a performance de uma aplicação Node.js, Mais detalhes no link do Medium onde falo sobre Performance e NodeJs.
+Este projeto contém implementações de carrinho de compras e seus produtos, juntamente com benchmarks para comparar o desempenho na geração do ID do carrinho de compras, utilizando duas abordagens, uma biblioteca externa, e a biblioteca interna do Node.JS, a motivação por trás deste projeto é demonstrar como diferentes abordagens podem impactar a performance de uma aplicação Node.js, mais detalhes no link do Medium onde falo sobre Performance e NodeJs.
 
-[https://medium.com/@marcos.samuel/entendendo-sobre-performance-de-aplica%C3%A7%C3%B5es-com-node-js-42ba052f1761](Artigo)
+- https://medium.com/@marcos.samuel/entendendo-sobre-performance-de-aplica%C3%A7%C3%B5es-com-node-js-42ba052f1761
 
 # 📦 Entidades
 
